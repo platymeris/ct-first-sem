@@ -1,0 +1,5 @@
+#!/bin/bash
+cd documents/java_kt/WordStatInput
+javac WordStatWordsSuffix.java
+java -ea -jar WordStatTest.jar WordsSuffix
+

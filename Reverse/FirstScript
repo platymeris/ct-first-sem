@@ -1,0 +1,4 @@
+#!/bin/bash
+cd documents/java_kt/Reverse
+javac ReverseTranspose.java
+java -ea -jar ReverseTest.jar Transpose

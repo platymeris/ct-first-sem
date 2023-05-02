@@ -1,0 +1,6 @@
+ame 1
+bre 2
+iii 7
+is 1
+ord 3
+uck 1
